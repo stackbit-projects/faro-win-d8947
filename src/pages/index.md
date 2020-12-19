@@ -15,7 +15,7 @@ sections:
         url: /features
         style: secondary
         has_icon: false
-      - label: lorem-ipsum
+      - label: More
         url: lorem-ipsum
         style: link
         has_icon: false
