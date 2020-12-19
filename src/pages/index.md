@@ -18,7 +18,7 @@ sections:
       - label: More
         url: lorem-ipsum
         style: secondary
-        has_icon: false
+        has_icon: true
         icon: arrow-right
         icon_position: right
         new_window: false
